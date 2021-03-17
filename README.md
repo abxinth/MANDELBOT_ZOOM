@@ -1,5 +1,5 @@
-# MANDLEBOT_ZOOM
-Simple Mandlebrot zoom using c++
+# MANDELBOT_ZOOM
+Simple Mandelbrot zoom using c++
 
 Dependencies->SFML
 
